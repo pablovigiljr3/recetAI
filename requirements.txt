@@ -8,3 +8,5 @@ fastapi
 uvicorn
 tqdm
 python-multipart
+matplotlib
+seaborn
