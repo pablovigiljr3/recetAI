@@ -134,7 +134,7 @@ Este proyecto utiliza el dataset **Food.com Recipes and User Interactions** disp
 
 🔗 [Food.com Recipes and User Interactions - Kaggle Dataset](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?resource=download&select=RAW_recipes.csv)
 
-El archivo principal utilizado es `RAW_recipes.csv`, que contiene 30,000+ recetas con información nutricional, ingredientes e instrucciones de preparación.
+El archivo principal utilizado es `RAW_recipes.csv`, que contiene 180,000+ recetas con información nutricional, ingredientes e instrucciones de preparación.
 
 
 ## 🔧 Componentes Principales
