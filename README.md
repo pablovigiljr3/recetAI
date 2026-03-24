@@ -6,8 +6,11 @@ Una plataforma completa de **Machine Learning + NLP** para clasificar recetas po
 
 ### 1. Setup del Ambiente (5 min)
 ```bash
-# Clonar/descargar el proyecto
-cd c:\Users\vigil\OneDrive\Documentos\1.\ ICAI\2º\ Cuatrimestre\Analisis\ de\ Datos\ No\ Estructurados\RecetAI
+# Clonar el proyecto
+git clone https://github.com/pablovigiljr3/recetAI.git
+
+# Entrar en la carpeta del proyecto
+cd recetAI
 
 # Crear y activar ambiente
 conda create -n recetAI python=3.10 -y
